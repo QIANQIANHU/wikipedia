@@ -1,0 +1,7 @@
+body {
+  float: left;
+}
+
+.jumbotron {
+  min-width: 900px;
+}
